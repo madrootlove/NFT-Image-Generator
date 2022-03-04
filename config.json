@@ -1,13 +1,13 @@
 {
-    "project_name": "name of your project",
+    "project_name": "NFT ETHIO",
 
     "amount": 50,
 
     "profile_images": 5,
 
-    "description": "description of your collection",
+    "description": "not",
 
-    "api_key": "your secret access token",
+    "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI5MjdkODA3OS1kMTVmLTQyZDktYjAxNS00OWE3ZjY3MTY1NTgiLCJlbWFpbCI6ImFiZWxmaXNlaGE5QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2V9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiIyMWRhMDVjNjkzMTgyMWQ5Nzg2YyIsInNjb3BlZEtleVNlY3JldCI6ImZlZTAzZjhlMzU4NjcyNTJiYmI1YjU5ODViYmFhMWViYTljNzYxYzM5NjBkZTk1NTlmMWQ1NDBkYTBkOWEzMGMiLCJpYXQiOjE2NDYzODE5NTF9.FOGFLeFgyTjU17qIGNKOQollZSuE2K5slGTklS0dkxc",
 
     "folders": [
         "1 background",
